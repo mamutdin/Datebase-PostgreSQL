@@ -20,7 +20,8 @@ INSERT INTO tracks (album_id, track_name, track_duration)
 			(5, 'Beverly Hills', 3.7), (5, 'Fly', 3.2),	
 			(6, 'Dont Leave Me', 3.8), (6, 'Crystal Snow', 5.5),	
 			(7, 'Venom', 4.5), (7, 'Fall', 4.3),	
-			(8, 'Old Devil Moon', 4)
+			(8, 'Old Devil Moon', 4),
+			(1, 'Unknown Track', 3)
 			
 INSERT INTO collections (collection_name, release_year)
 	VALUES ('Rock till we die', 2018), ('Pop and K-pop', 2017), ('Soundtracks', 2020),	
